@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.links {
+    display: flex;
+}
+
+.intro {
+    display: flex;
+}
+
+.random {
+    display: flex;
+}
+
+.random img {
+    width: 150px;
+    height: 150px;
+    border: 5px solid blue;
+}
+
+.action {
+    display: flex;
+}
